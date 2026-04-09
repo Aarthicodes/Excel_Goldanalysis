@@ -16,7 +16,7 @@ Converted gold prices into currency format.
 Standardized column names.
 Handled missing values using appropriate formulas.
 Used Trim and clean function to clean the data and used proper data to standardized the text.
-Used filtering, sorting and exp1oring data to find top 5 and bottom 5 gold rate.
+Used filtering, sorting and exploring data to find top 5 and bottom 5 gold rate.
 
 # Formula used:
 VLOOKUP – to fetch gold prices by date
