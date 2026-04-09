@@ -54,7 +54,6 @@ Prescriptive Analysis:
 # Conclusion:
 Gold is a strong long-term investment and a hedge against against inflation
 
-# Author
-# Aarthi.K.S
+
 	Monitoring seasonal trends can help in timing gold purchases effectively
 	Data-driven dashboards can support better investment decisions.
