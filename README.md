@@ -3,10 +3,10 @@ In this Excel Gold analysis i have uplaoded the excel document of gold from 2006
 The dataset in this project contains daily gold price data from 2006 to 2025. It provides historical information about gold rates over a long period, which helps in analyzing trends and price fluctuations. The data is organized in a tabular format and is suitable for analysis using Microsoft Excel.
 
 Description
-Date- Represents the daily record of gold prices.
-Country-	Indicates the country where the gold price is recorded in India
-State-	Shows the state of the price record in Tamil Nadu
-Location-	Specifies the city of data collection (Chennai)
+• Date- Represents the daily record of gold prices.
+• Country-	Indicates the country where the gold price is recorded in India
+• State-	Shows the state of the price record in Tamil Nadu
+• Location-	Specifies the city of data collection (Chennai)
 
 Cleaning steps:
 	Removed blank and duplicate rows
